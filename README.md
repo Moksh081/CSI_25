@@ -10,7 +10,7 @@ Welcome to my repository for the **Celebal Technologies Summer Internship 2025 (
 ## 📁 Repository Structure
 
 
-- **`Week-1` to `Week-4`**: Includes Jupyter notebooks, datasets, and task-based solutions.
+- **`Week-1` to `Week-8`**: Includes Jupyter notebooks, datasets, and task-based solutions.
 - **`Final-Project`**: My capstone project for the internship with detailed documentation and implementation.
 
 ---
